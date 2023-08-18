@@ -1,0 +1,2 @@
+# SafeTensors
+Safetensors is a new simple format for storing tensors safely (as opposed to pickle) and that is still fast (zero-copy). Safetensors is really fast 🚀
